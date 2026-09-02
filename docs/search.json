@@ -1,45 +1,10 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "Principal Investigator · Ph.D. Student Research Grant\nMinistry of Education, Korea · 2025 – 2026\n\n\n\nTrue coefficient surfaces used in the simulation design, across three spatial scales (S1–S3) and four heterogeneity patterns (C1–C4).\n\n\n\n\n\nRMSE box plots of SVC models over 100 simulations\n\n\n\n\n\nCoefficient surfaces estimated by SGAM, GGP-GAM, MGWR, and MESF-SVC, together with their deviation from the true surface (case C2)\n\n\n\n\n\nStudent Researcher · Excellent Young Researcher Program\nMinistry of Science and ICT, Korea · 2022 – 2024\n\n\n\nThe examples of the randomly generated spatially autocorrelated variables\n\n\n\n\n\nThe differences in RMSE values between strong positive and no spatial autocorrelation with varying numbers of folds in SKCV\n\n\n\n\n\nBias trends of RMSE in BLOOCV with the levels of spatial autocorrelation and the excluding ranges"
-  },
-  {
-    "objectID": "projects.html#funded-research",
-    "href": "projects.html#funded-research",
-    "title": "Projects",
-    "section": "",
-    "text": "Principal Investigator · Ph.D. Student Research Grant\nMinistry of Education, Korea · 2025 – 2026\n\n\n\nTrue coefficient surfaces used in the simulation design, across three spatial scales (S1–S3) and four heterogeneity patterns (C1–C4).\n\n\n\n\n\nRMSE box plots of SVC models over 100 simulations\n\n\n\n\n\nCoefficient surfaces estimated by SGAM, GGP-GAM, MGWR, and MESF-SVC, together with their deviation from the true surface (case C2)\n\n\n\n\n\nStudent Researcher · Excellent Young Researcher Program\nMinistry of Science and ICT, Korea · 2022 – 2024\n\n\n\nThe examples of the randomly generated spatially autocorrelated variables\n\n\n\n\n\nThe differences in RMSE values between strong positive and no spatial autocorrelation with varying numbers of folds in SKCV\n\n\n\n\n\nBias trends of RMSE in BLOOCV with the levels of spatial autocorrelation and the excluding ranges"
-  },
-  {
-    "objectID": "projects.html#professional-experience",
-    "href": "projects.html#professional-experience",
-    "title": "Projects",
-    "section": "Professional Experience",
-    "text": "Professional Experience\nResearcher · Spatial and Environmental Research Division\nChungnam Institute, Korea · 2019 – 2021"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Musang Yoo",
-    "section": "",
-    "text": "I am a Ph.D. candidate in Geoinformatics at the University of Seoul."
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Musang Yoo",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nSpatial statistics and spatially varying coefficient models\nSpatial heterogeneity and non-stationarity\nMachine learning with spatial data\nGeographic Information Science (GIS)"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Musang Yoo",
-    "section": "Education",
-    "text": "Education\n\n2022 – present · Ph.D. Candidate, Geoinformatics, University of Seoul\n2017 – 2019 · M.S., Geoinformatics, Kangwon National University\n2010 – 2017 · B.A., Urban Planning and Real Estate, Kangwon National University"
+    "text": "Download CV (PDF)\n\nThis browser cannot display embedded PDFs. &lt;a href=\"cv.pdf\"&gt;Download the CV instead.&lt;/a&gt;"
   },
   {
     "objectID": "research.html",
@@ -61,5 +26,40 @@
     "title": "Research",
     "section": "Conference Presentations",
     "text": "Conference Presentations\nYoo, M., Kang, H., Cho, Y., and Koo, H., 2025, Comparing spatially varying coefficient models for election vote share determinants, Conference of the Korea Spatial Information Society. Best Presentation Award\nJeong, M., Yoo, M., Kang, H., Cho, Y., and Koo, H., 2025, Impacts of spatio-temporal variation sources on machine learning based spatio-temporal kriging, Conference of the Korea Spatial Information Society.\nYoo, M., Cho, Y., and Koo, H., 2024, Incorporating spatial data into machine learning using spatial features, Joint Conference of the Korean Association of Geographic Information Studies and the Korean Society of Surveying, Geodesy, Photogrammetry and Cartography. Best Presentation Award\nYoo, M., and Koo, H., 2024, Exploring region-based discrete spatial heterogeneity in the determinants of apartment sale prices in Seoul, Conference of the Korean Cartographic Association. Best Presentation Award\nJeong, M., Kang, H., Yoo, M., and Koo, H., 2023, Improving prediction accuracy through spatially constrained hierarchical clustering in machine learning models, Conference of the Korea Spatial Information Society.\nYoo, M., Park, S., Kang, H., and Koo, H., 2023, Exploring the effectiveness of the spatial features to incorporate spatial data into machine learning, Conference of the GeoAI Data Society.\nYoo, M., and Koo, H., 2022, The effect of spatial autocorrelation on cross-validation and the validation of spatial cross-validation techniques, Conference of the GeoAI Data Society.\nYoo, M., and Koo, H., 2022, Estimating the prediction performance of cross-validation in the presence of spatial autocorrelation, Conference of the GeoAI Data Society.\nYoo, M., Jeong, S., Kim, K., and Sohn, C., 2018, Analyzing pending issues using topic modeling and local newspaper articles, Conference of the Korean Regional Science Association."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Musang Yoo",
+    "section": "",
+    "text": "I am a Ph.D. candidate in Geoinformatics at the University of Seoul."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Musang Yoo",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nSpatial statistics\nSpatial heterogeneity and non-stationarity\nSpatially varying coefficient models\nMachine learning with spatial data\nGeographic Information Science (GIS)"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Principal Investigator · Ph.D. Student Research Grant\nMinistry of Education, Korea · 2025 – 2026\n\n\n\n\n\n\nTrue coefficient surfaces used in the simulation design, across three spatial scales (S1–S3) and four heterogeneity patterns (C1–C4)\n\n\n\n\n\n\n\nRMSE box plots of SVC models over 100 simulations\n\n\n\n\n\n\n\nCoefficient surfaces estimated by SGAM, GGP-GAM, MGWR, and MESF-SVC, together with their deviation from the true surface (e.g., S1-C2, S3-C2)\n\n\n\n\n\n\n\n\nStudent Researcher · Excellent Young Researcher Program\nMinistry of Science and ICT, Korea · 2022 – 2024\n\n\n\n\n\n\nThe examples of the randomly generated spatially autocorrelated variables\n\n\n\n\n\n\n\nThe differences in RMSE values between strong positive and no spatial autocorrelation with varying numbers of folds in SKCV\n\n\n\n\n\n\n\nBias trends of RMSE in BLOOCV with the levels of spatial autocorrelation and the excluding ranges"
+  },
+  {
+    "objectID": "projects.html#funded-research",
+    "href": "projects.html#funded-research",
+    "title": "Projects",
+    "section": "",
+    "text": "Principal Investigator · Ph.D. Student Research Grant\nMinistry of Education, Korea · 2025 – 2026\n\n\n\n\n\n\nTrue coefficient surfaces used in the simulation design, across three spatial scales (S1–S3) and four heterogeneity patterns (C1–C4)\n\n\n\n\n\n\n\nRMSE box plots of SVC models over 100 simulations\n\n\n\n\n\n\n\nCoefficient surfaces estimated by SGAM, GGP-GAM, MGWR, and MESF-SVC, together with their deviation from the true surface (e.g., S1-C2, S3-C2)\n\n\n\n\n\n\n\n\nStudent Researcher · Excellent Young Researcher Program\nMinistry of Science and ICT, Korea · 2022 – 2024\n\n\n\n\n\n\nThe examples of the randomly generated spatially autocorrelated variables\n\n\n\n\n\n\n\nThe differences in RMSE values between strong positive and no spatial autocorrelation with varying numbers of folds in SKCV\n\n\n\n\n\n\n\nBias trends of RMSE in BLOOCV with the levels of spatial autocorrelation and the excluding ranges"
+  },
+  {
+    "objectID": "projects.html#professional-experience",
+    "href": "projects.html#professional-experience",
+    "title": "Projects",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nResearcher · Spatial and Environmental Research Division\nChungnam Institute, Korea · 2019 – 2021"
   }
 ]
