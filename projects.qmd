@@ -1,0 +1,32 @@
+---
+title: "Projects"
+---
+
+## Funded Research
+
+### Comparative analysis of varying local regression models according to spatial heterogeneity patterns
+
+**Principal Investigator** · Ph.D. Student Research Grant\
+Ministry of Education, Korea · 2025 – 2026
+
+![True coefficient surfaces used in the simulation design, across three spatial scales (S1–S3) and four heterogeneity patterns (C1–C4).](images/svc-true-surfaces.jpg)
+
+![RMSE box plots of SVC models over 100 simulations](images/svc-model-comparison.png)
+
+![Coefficient surfaces estimated by SGAM, GGP-GAM, MGWR, and MESF-SVC, together with their deviation from the true surface (case C2)](images/svc-estimates-c2.jpg)
+
+### Developing machine learning methods incorporating spatial data properties
+
+**Student Researcher** · Excellent Young Researcher Program\
+Ministry of Science and ICT, Korea · 2022 – 2024
+
+![The examples of the randomly generated spatially autocorrelated variables](images/spatial-cv-fig02.png)
+
+![The differences in RMSE values between strong positive and no spatial autocorrelation with varying numbers of folds in SKCV](images/spatial-cv-fig08.png)
+
+![Bias trends of RMSE in BLOOCV with the levels of spatial autocorrelation and the excluding ranges](images/spatial-cv-fig09.png)
+
+## Professional Experience
+
+**Researcher** · Spatial and Environmental Research Division\
+Chungnam Institute, Korea · 2019 – 2021

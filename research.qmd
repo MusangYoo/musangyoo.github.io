@@ -12,7 +12,7 @@ models, *Journal of the Korean Society of Surveying, Geodesy, Photogrammetry and
 Cartography*, 44(2), pp. 213–223.
 [DOI](https://doi.org/10.7848/ksgpc.2026.44.2.213)
 
-Koo, H., **Yoo, M.**\*, Kang, H., Cho, Y., and Jeong, M., Evaluating the
+Koo, H., **Yoo, M.**\*, Kang, H., Cho, Y., and Jeong, M., 2026, Evaluating the
 integration of spatial features in machine learning for model accuracy and
 residual autocorrelation, *Transactions in GIS*, 30(2), e70230.
 [DOI](https://doi.org/10.1111/tgis.70230)
