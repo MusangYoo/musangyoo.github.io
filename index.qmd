@@ -15,8 +15,6 @@ about:
       href: https://github.com/MusangYoo
 ---
 
-I am a Ph.D. candidate in Geoinformatics at the **University of Seoul**.
-
 ## Research Interests
 
 - Spatial statistics
@@ -24,3 +22,14 @@ I am a Ph.D. candidate in Geoinformatics at the **University of Seoul**.
 - Spatially varying coefficient models
 - Machine learning with spatial data
 - Geographic Information Science (GIS)
+
+## Contact Info
+
+Mail Address
+: The Department of Geoinformatics, University of Seoul, 163 Seoulsiripdaero #15-609, Dongdaemun-Gu, Seoul, Korea 02504
+
+Tel
+: +82-2-6490-5652
+
+Fax
+: +82-2-6490-2884

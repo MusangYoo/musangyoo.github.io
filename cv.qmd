@@ -1,7 +1,9 @@
 ---
 title: "Curriculum Vitae"
-toc: false
+toc: true
 ---
+
+## 2026 August version
 
 [Download CV (PDF)](cv.pdf){.btn .btn-primary}
 

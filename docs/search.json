@@ -7,6 +7,13 @@
     "text": "Download CV (PDF)\n\nThis browser cannot display embedded PDFs. &lt;a href=\"cv.pdf\"&gt;Download the CV instead.&lt;/a&gt;"
   },
   {
+    "objectID": "cv.html#august-version",
+    "href": "cv.html#august-version",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download CV (PDF)\n\nThis browser cannot display embedded PDFs. &lt;a href=\"cv.pdf\"&gt;Download the CV instead.&lt;/a&gt;"
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -32,14 +39,21 @@
     "href": "index.html",
     "title": "Musang Yoo",
     "section": "",
-    "text": "I am a Ph.D. candidate in Geoinformatics at the University of Seoul."
+    "text": "Spatial statistics\nSpatial heterogeneity and non-stationarity\nSpatially varying coefficient models\nMachine learning with spatial data\nGeographic Information Science (GIS)"
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Musang Yoo",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nSpatial statistics\nSpatial heterogeneity and non-stationarity\nSpatially varying coefficient models\nMachine learning with spatial data\nGeographic Information Science (GIS)"
+    "section": "",
+    "text": "Spatial statistics\nSpatial heterogeneity and non-stationarity\nSpatially varying coefficient models\nMachine learning with spatial data\nGeographic Information Science (GIS)"
+  },
+  {
+    "objectID": "index.html#contact-info",
+    "href": "index.html#contact-info",
+    "title": "Musang Yoo",
+    "section": "Contact Info",
+    "text": "Contact Info\n\nMail Address\n\nThe Department of Geoinformatics, University of Seoul, 163 Seoulsiripdaero #15-609, Dongdaemun-Gu, Seoul, Korea 02504\n\nTel\n\n+82-2-6490-5652\n\nFax\n\n+82-2-6490-2884"
   },
   {
     "objectID": "projects.html",
