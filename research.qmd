@@ -1,0 +1,93 @@
+---
+title: "Research"
+---
+
+## 	Journal Articles
+
+\* indicates corresponding author.
+
+Cho, Y., **Yoo, M.**, Kang, H., and Koo, H., 2026, The impacts of scale effects
+of the modifiable areal unit problem on machine learning based urban development
+models, *Journal of the Korean Society of Surveying, Geodesy, Photogrammetry and
+Cartography*, 44(2), pp. 213–223.
+[DOI](https://doi.org/10.7848/ksgpc.2026.44.2.213)
+
+Koo, H., **Yoo, M.**\*, Kang, H., Cho, Y., and Jeong, M., Evaluating the
+integration of spatial features in machine learning for model accuracy and
+residual autocorrelation, *Transactions in GIS*, 30(2), e70230.
+[DOI](https://doi.org/10.1111/tgis.70230)
+
+**Yoo, M.**, Kang, H., Cho, Y., Jeong, M., Koo, H., and Lim, S., 2025, Comparing
+local estimates of election vote share determinants using spatially varying
+coefficient models, *Journal of Korean Society for Geospatial Information
+Science*, 33(4), pp. 89–107.
+[DOI](http://dx.doi.org/10.7319/kogsis.2025.33.4.089)
+
+**Yoo, M.**, and Koo, H., 2025, Exploring the impact of spatial autocorrelation
+on optimistic bias in cross validation and assessing the effectiveness of spatial
+cross-validation, *Cartography and Geographic Information Science*, 52(5),
+pp. 596–609. [DOI](https://doi.org/10.1080/15230406.2024.2422593)
+
+Jeong, M., **Yoo, M.**, Kang, H., Cho, Y., and Koo, H., 2025, Impacts of
+spatio-temporal variation on estimation of spatial and spatio-temporal kriging,
+*Korean Journal of Remote Sensing*, 41(2), pp. 437–446.
+[DOI](https://doi.org/10.7780/kjrs.2025.41.2.2.4)
+
+Koo, H., **Yoo, M.**\*, Seo, H., and Park, S., 2024, Exploring effectiveness of
+spatial features for incorporating spatial data into machine learning, *Journal
+of the Korean Society of Surveying, Geodesy, Photogrammetry and Cartography*,
+42(1), pp. 43–57. [DOI](https://doi.org/10.7848/ksgpc.2024.42.1.1)
+
+**Yoo, M.**, and Koo, H., 2024, Exploring discontinuous spatial heterogeneity in
+the determinants of apartment sales price in Seoul, *Journal of the Korean
+Cartographic Association*, 24(2), pp. 43–57.
+[DOI](https://doi.org/10.16879/jkca.2024.24.2.043)
+
+**Yoo, M.**, and Choi, D., 2019, An empirical study on the spatial effect of
+distribution patterns between small business and social-environmental factors,
+*Journal of the Korean Association of Geographic Information Studies*, 22(1),
+pp. 1–18. [DOI](https://doi.org/10.11108/kagis.2019.22.1.001)
+
+**Yoo, M.**, Jeong, S., Kim, K., and Sohn, C., 2018, Seasonal analysis of
+beach-related issues using local newspaper articles and topic modeling, *Journal
+of the Korean Regional Science Association*, 34(4), pp. 19–34.
+[DOI](https://doi.org/10.22669/krsa.2018.34.4.019)
+
+## Conference Presentations
+
+**Yoo, M.**, Kang, H., Cho, Y., and Koo, H., 2025, Comparing spatially varying
+coefficient models for election vote share determinants, *Conference of the Korea
+Spatial Information Society*. **Best Presentation Award**
+
+Jeong, M., **Yoo, M.**, Kang, H., Cho, Y., and Koo, H., 2025, Impacts of
+spatio-temporal variation sources on machine learning based spatio-temporal
+kriging, *Conference of the Korea Spatial Information Society*.
+
+**Yoo, M.**, Cho, Y., and Koo, H., 2024, Incorporating spatial data into machine
+learning using spatial features, *Joint Conference of the Korean Association of
+Geographic Information Studies and the Korean Society of Surveying, Geodesy,
+Photogrammetry and Cartography*. **Best Presentation Award**
+
+**Yoo, M.**, and Koo, H., 2024, Exploring region-based discrete spatial
+heterogeneity in the determinants of apartment sale prices in Seoul, *Conference
+of the Korean Cartographic Association*. **Best Presentation Award**
+
+Jeong, M., Kang, H., **Yoo, M.**, and Koo, H., 2023, Improving prediction
+accuracy through spatially constrained hierarchical clustering in machine
+learning models, *Conference of the Korea Spatial Information Society*.
+
+**Yoo, M.**, Park, S., Kang, H., and Koo, H., 2023, Exploring the effectiveness
+of the spatial features to incorporate spatial data into machine learning,
+*Conference of the GeoAI Data Society*.
+
+**Yoo, M.**, and Koo, H., 2022, The effect of spatial autocorrelation on
+cross-validation and the validation of spatial cross-validation techniques,
+*Conference of the GeoAI Data Society*.
+
+**Yoo, M.**, and Koo, H., 2022, Estimating the prediction performance of
+cross-validation in the presence of spatial autocorrelation, *Conference of the
+GeoAI Data Society*.
+
+**Yoo, M.**, Jeong, S., Kim, K., and Sohn, C., 2018, Analyzing pending issues
+using topic modeling and local newspaper articles, *Conference of the Korean
+Regional Science Association*.
