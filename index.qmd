@@ -3,6 +3,9 @@ title: "Musang Yoo"
 subtitle: "Ph.D. Candidate in Geoinformatics, University of Seoul"
 about:
   template: trestles
+  image: images/profile.svg
+  image-width: 10em
+  image-shape: round
   links:
     - icon: envelope
       text: Email
