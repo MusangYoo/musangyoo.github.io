@@ -1,0 +1,31 @@
+---
+title: "Musang Yoo"
+subtitle: "Ph.D. Candidate in Geoinformatics, University of Seoul"
+about:
+  template: trestles
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:yu1364@uos.ac.kr
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0009-0009-2783-4463
+    - icon: github
+      text: GitHub
+      href: https://github.com/MusangYoo
+---
+
+I am a Ph.D. candidate in Geoinformatics at the **University of Seoul**.
+
+## Research Interests
+
+- Spatial statistics and spatially varying coefficient models
+- Spatial heterogeneity and non-stationarity
+- Machine learning with spatial data
+- Geographic Information Science (GIS)
+
+## Education
+
+- **2022 – present** · Ph.D. Candidate, Geoinformatics, University of Seoul
+- **2017 – 2019** · M.S., Geoinformatics, Kangwon National University
+- **2010 – 2017** · B.A., Urban Planning and Real Estate, Kangwon National University

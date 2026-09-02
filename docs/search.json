@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Musang Yoo",
+    "section": "",
+    "text": "I am a Ph.D. candidate in Geoinformatics at the University of Seoul."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Musang Yoo",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nSpatial statistics and spatially varying coefficient models\nSpatial heterogeneity and non-stationarity\nMachine learning with spatial data\nGeographic Information Science (GIS)"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Musang Yoo",
+    "section": "Education",
+    "text": "Education\n\n2022 – present · Ph.D. Candidate, Geoinformatics, University of Seoul\n2017 – 2019 · M.S., Geoinformatics, Kangwon National University\n2010 – 2017 · B.A., Urban Planning and Real Estate, Kangwon National University"
+  }
+]
