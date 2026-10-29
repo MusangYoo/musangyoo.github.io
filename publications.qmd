@@ -2,9 +2,13 @@
 title: "Publications"
 ---
 
-## 	Journal Articles
+## Journal Articles
 
 \* indicates corresponding author.
+
+**Yoo, M.**, and Koo, H., 2027, Evaluating spatially varying coefficient models
+across structural patterns of spatial heterogeneity, *Geographical Analysis*,
+59(1), e70070. [DOI](https://doi.org/10.1111/gean.70070)
 
 Cho, Y., **Yoo, M.**, Kang, H., and Koo, H., 2026, The impacts of scale effects
 of the modifiable areal unit problem on machine learning based urban development

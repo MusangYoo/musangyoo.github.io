@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 toc: true
 ---
 
-## 2026 August version
+## 2026 October version
 
 [Download CV (PDF)](cv.pdf){.btn .btn-primary}
 
